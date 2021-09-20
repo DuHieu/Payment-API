@@ -4,6 +4,6 @@
     "\\Payment",
     "\\Payment\\Controllers"
   ],
-  "SelectedNode": "\\Payment\\Controllers\\PaymentDetailController.cs",
+  "SelectedNode": "\\Payment\\Startup.cs",
   "PreviewInSolutionExplorer": false
 }
