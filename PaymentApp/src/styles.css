@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+input.invalid{
+  border-color: rgb(255, 0, 0);
+}
+h1
+{
+  margin: 2rem;
+  background-color: rgb(208, 214, 214);
+  padding: 3rem;
+}
