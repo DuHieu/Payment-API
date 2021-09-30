@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Payment",
-    "\\Payment\\Controllers"
+    "\\Payment\\Controllers",
+    "\\Payment\\Migrations"
   ],
-  "SelectedNode": "\\Payment\\Startup.cs",
+  "SelectedNode": "\\Payment\\Controllers\\PaymentDetailController.cs",
   "PreviewInSolutionExplorer": false
 }
